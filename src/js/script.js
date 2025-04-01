@@ -39,3 +39,19 @@ let exemplo7 = null;
 console.log(typeof exemplo7);
 
 // Conversões
+
+// float => inteiro
+let numFloat = 123.456;
+console.log(parseInt(numFloat));
+
+// string => float
+let numString = "547.281";
+console.log(parseFloat(numString));
+
+// float => string
+let numFloat2 = 314.424;
+console.log(numFloat2.toString());
+console.log(String(numFloat2));
+
+let numInt = 100;
+console.log(numInt.toString());
