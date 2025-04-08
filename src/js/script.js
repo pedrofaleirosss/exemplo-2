@@ -132,8 +132,46 @@
 
 // Condição Ternária
 
-let valor2 = 300;
+// let valor2 = 300;
 
-let resultado = valor2 == 300 ? "Certo" : "Errado";
+// let resultado = valor2 == 300 ? "Certo" : "Errado";
 
-console.log(resultado);
+// console.log(resultado);
+
+// Switch Case
+
+// let time = "São Paulo";
+
+// switch (time) {
+//   case "São Paulo":
+//     console.log("Melhor time.");
+//     break;
+//   case "Corinthians":
+//     console.log("Não é seleção.");
+//     break;
+//   case "Palmeiras":
+//     console.log("Não tem mundial.");
+//     break;
+//   default:
+//     console.log("Nenhuma das opções.");
+// }
+
+// Estrutura de Laço de Repetição
+
+// for (let i = 0; i <= 10; i++) {
+//   console.log("Número: " + i);
+// }
+
+// let w = 0;
+
+// while (w <= 10) {
+//   console.log("Valor de w: " + w);
+//   w++;
+// }
+
+// let z = 10;
+
+// do {
+//   console.log("do while é", z);
+//   z++;
+// } while (z <= 100);
