@@ -175,3 +175,19 @@
 //   console.log("do while é", z);
 //   z++;
 // } while (z <= 100);
+
+// Funções
+
+// function saudacao(nome) {
+//   // console.log("Olá " + nome);
+//   console.log(`Olá ${nome}`); // String Literal
+// }
+
+// saudacao("Pedro");
+
+function semaforo() {
+  let sinal = "Amarelo";
+  console.log(`O semáforo está ${sinal}`);
+}
+
+semaforo();
